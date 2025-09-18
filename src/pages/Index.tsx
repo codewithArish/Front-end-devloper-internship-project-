@@ -77,9 +77,9 @@ const Index = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.3 }}
-              className="text-4xl md:text-6xl font-bold mb-4"
+              className="text-4xl md:text-6xl font-bold mb-4 text-black"
             >
-              Discover <span className="text-primary animate-pulse-glow">Amazing</span> Products
+              Discover <span className="text-black animate-pulse-glow">Amazing</span> Products
             </motion.h1>
             
             <motion.p
