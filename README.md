@@ -8,7 +8,7 @@ It fetches data from the **DummyJSON API** and allows users to browse, filter, s
 ---
 
 ## 🚀 Live Demo
-🔗 [View on Vercel](https://your-vercel-link-here.vercel.app)  
+🔗 [View on Vercel]([https://your-vercel-link-here.vercel.app](https://front-end-devloper-internship-proje.vercel.app/))  
 
 ---
 
